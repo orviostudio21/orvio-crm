@@ -1,0 +1,1 @@
+PRODUCT = {'name': 'Orvio CRM', 'tagline': 'Cada conversa, um próximo passo.', 'description': 'Relacionamentos, oportunidades e atividades em um único espaço de trabalho.', 'primary': 'deals', 'action': 'Nova oportunidade', 'font': 'Instrument Sans', 'accent': '#1b6e66', 'slug': 'crm'}
