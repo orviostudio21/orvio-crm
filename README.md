@@ -1,5 +1,7 @@
 # Orvio CRM
 
+[![Quality](https://github.com/orviostudio21/orvio-crm/actions/workflows/ci.yml/badge.svg)](https://github.com/orviostudio21/orvio-crm/actions/workflows/ci.yml)
+
 Cada conversa, um próximo passo. Relacionamentos, oportunidades e atividades em um único espaço de trabalho.
 
 Uma aplicação completa da [Orvio Studio](https://github.com/orviostudio21), com backend Django, banco relacional, autenticação e interface responsiva em português.
